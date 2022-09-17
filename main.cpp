@@ -4,18 +4,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello Wordl!" << endl;
-    cout << "my name is MUHAMMAD ILHAM AKBAR" << endl;
-
-    int u = 17;
-    float t = 164;
-    char b = 'L';
-    string k = "demak";
-    cout << endl;
-    cout << "Umur:" << u << endl;
-    cout << "Tinggi badan:" << t << endl;
-    cout << "Ukuran baju:" << b << endl;
-    cout << "Kota asal:" << k << endl;
-
+    cout << "Nama:Muhammad Ilham Akbar" << endl;
+    cout << "Nim :A11.2022.14109" << endl;
+    cout << "Alamat:Desa Tamansari Rt 02 Rw III,Mranggen,Demak" << endl;
+    cout << "Asal Sekolah:MAN 1 KOTA SEMARANG" << endl;
     return 0;
 }
